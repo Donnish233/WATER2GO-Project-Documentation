@@ -1,9 +1,9 @@
 # WATER2GO-Project-Documentation
-##PROJECT NAME : WATER2GO
+## PROJECT NAME : WATER2GO
 
 WATER2GO is an idea for a website where consumers can transact with water suppliers on-chain to have their water needs met in due time. It is a practical solution to the water scarcity issues experienced by residents in the Lekki axis. It is difficult for these people to access clean water for domestic uses such as bathing, cooking and laundry. However, they are met with a dilemma in the pursuit for a lasting solution. Many influential people such as Mirabel and Papaya have complained about this on many social media platforms and it is for this reason that we are profering this solution.
 
-##FULL DESCRIPTION
+## FULL DESCRIPTION
 
 In the real word the purchase of water resources goes thus: 
    A customer goes to a depot and looks for a tanker driver. Upon finding one, they negotiate a price for the water along with the cost of transportation. Once they beat a price, the driver goes to get the water, with the buyer either choosing to accompany him to verify the cleanliness of the water source or not. When he returns, the driver is then taken to the buyer’s choice location where he delivers his and is paid on site. Then maybe after a series of repeated transactions between the same individuals over time, customer trust and loyalty is built and the driver may now be paid days before he is even required to deliver the water.
@@ -15,7 +15,7 @@ I’d like us to build a platform where  water suppliers(or tanker drivers, depe
 
 Consumers will then scroll around the site in search of potential vendors. Once they find a water vendor whose product and price suits them, they will then fill in some data such as the number of units they would love to purchase as well as the delivery location and deposit their money(which is in any real world or digital currency they like) into the smart contract. This will then notify the vendor in question that his services are needed in so and so location. The driver will then send a message to the consumer stating a timeframe when delivery will possibly happen and later on takes the water to the pre-stated location. Upon receiving the water, the consumer confirms the transaction and the driver is paid immediately. Our Accounts Abstraction model will take care of all the preliminary registration processes for all consumers as well as all the gas fees incurred. 
 
-##HOW TO ENABLE QUALITY ASSURANCE
+## HOW TO ENABLE QUALITY ASSURANCE
 
 To ensure business runs smoothly and that only premium quality products are delivered, consumers will be required to rate the quality of service (using five stars) based on two criteria:
 Quality/Neatness of the water delivered
@@ -29,13 +29,13 @@ Red for 1 or poor quality
 Black for 0 or terrible quality
 This will enable consumers to make better choices as well as deter rascally vendors from delivering poor services.
 
-##EARNING AND INCENTIVES THAT WILL KEEP USERS COMING BACK
+## EARNING AND INCENTIVES THAT WILL KEEP USERS COMING BACK
 
 Now the whole point is for us to earn money for our own gain as well as run the gasless transactions. We’d do this by
 Vendor Subscriptions.
 Service Charges: Asides from the price set by the vendor, users will be required to pay an extra 5% of whatever they are paying to the vendor in each transaction. This is majorly for gas fee servicing.
 
-##INCENTIVES
+## INCENTIVES
 Refund options: In an event where a consumer does not like what he got, he can decide to reject the product, cancel the transaction and get a refund. However, he will not be paid in full. Aside from the non-refundable service charge, 10% of the vendor’s price will be deducted to be used as compensation for the vendor’s time and resources wasted and anything left will come to us the developers. Hence the consumer will receive only 90% of whatever price originally stated by the vendor. This will also serve as a deterrent to badly behaved consumers who might want to prank unsuspecting vendors. A cancellation will also mean a 1 star red flag rating for the vendor.
 Discount tokens: For every successful transaction, consumers will receive discount tokens whose number will equal a thousandth of the vendor's cost minted into their wallet. They may use these to receive discounts on total payments(i.e total of vendor’s cost +service charge) at the rate of 500 Discount tokens to 5% actual discount.
 These, coupled with the efficient service rendering will keep the users coming back and steadily build a solid customer base.
